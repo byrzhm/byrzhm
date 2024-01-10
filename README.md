@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div id="title" align=center>
     😂I'm a beginner😂
 </div>
 
