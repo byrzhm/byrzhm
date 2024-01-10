@@ -26,5 +26,3 @@
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=fff)
 
 ![gif](assets/dog.gif)
-
-![image](assets/wallhaven-jxyopy.png)
