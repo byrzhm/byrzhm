@@ -25,4 +25,6 @@
 ![windows](https://img.shields.io/badge/Windows_11-0078D4?logo=windows&logoColor=fff)
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=fff)
 
+![gif](assets/dog.gif)
+
 ![image](assets/wallhaven-jxyopy.png)
