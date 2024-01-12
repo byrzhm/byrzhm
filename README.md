@@ -9,7 +9,11 @@
 
 #### leetcode
 
+<div align=center>
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/lao-tu-lu?theme=wtf&font=Zen%20Loop&ext=heatmap&site=cn)](https://leetcode.cn/u/lao-tu-lu/)
+
+</div>
 
 #### languages
 
