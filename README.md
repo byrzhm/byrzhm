@@ -11,7 +11,7 @@
 
 <div align=center>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lao-tu-lu?theme=unicorn&font=Stoke%20Loop&ext=heatmap&site=cn)](https://leetcode.cn/u/lao-tu-lu/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lao-tu-lu?theme=unicorn&font=Stoke%20Loop&ext=activity&site=cn)](https://leetcode.cn/u/lao-tu-lu/)
 
 </div>
 
