@@ -1,6 +1,9 @@
-<div id="title" align=center>
-    😂I'm a beginner😂
-</div>
+### Hi there 👋
+
+- I'm an undergraduate majoring in Computer Science and Technology at BUPT. 🧑‍🎓
+- I'm interested in programming. 🧑‍💻
+
+#### github stats
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=byrzhm&show_icons=true&theme=radical&include_all_commits=true" alt="byrzhm's github stats"/>
@@ -27,10 +30,10 @@
 ![vs](https://img.shields.io/badge/VS-5C2D91?logo=Visual-Studio&logoColor=fff)
 ![vscode](https://img.shields.io/badge/VSCode-007ACC?logo=Visual-Studio&logoColor=fff)
 ![unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff)
+![jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)
 
 #### Platforms
 
 ![windows](https://img.shields.io/badge/Windows_11-0078D4?logo=windows&logoColor=fff)
+![macos](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=fff)
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=fff)
-
-![gif](assets/dog.gif)
