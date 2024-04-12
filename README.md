@@ -10,14 +10,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byrzhm&theme=radical&layout=compact" alt="byrzhm's github stats"/>
 </div>
 
-#### leetcode
-
-<div align=center>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lao-tu-lu?theme=unicorn&font=Stoke%20Loop&ext=activity&site=cn)](https://leetcode.cn/u/lao-tu-lu/)
-
-</div>
-
 #### languages
 
 [![c](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)](https://en.cppreference.com/w/c/language)
