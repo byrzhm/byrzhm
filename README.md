@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - I'm an undergraduate majoring in Computer Science and Technology at BUPT. 🧑‍🎓
-- I'm interested in programming. 🧑‍💻
 
 #### github stats
 
@@ -14,14 +13,12 @@
 
 [![c](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)](https://en.cppreference.com/w/c/language)
 [![cpp](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)](https://en.cppreference.com/w/)
-[![c#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=fff)](https://docs.python.org/3/)
 
 #### Tools and Environments
 
 ![vs](https://img.shields.io/badge/VS-5C2D91?logo=Visual-Studio&logoColor=fff)
 ![vscode](https://img.shields.io/badge/VSCode-007ACC?logo=Visual-Studio&logoColor=fff)
-![unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)
 
 #### Platforms
