@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=byrzhm&show_icons=true&theme=radical&include_all_commits=true" alt="byrzhm's github stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byrzhm&theme=radical&layout=compact" alt="byrzhm's github stats"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byrzhm&theme=radical&layout=compact" alt="byrzhm's github stats"/> -->
 </div>
 
 #### languages
